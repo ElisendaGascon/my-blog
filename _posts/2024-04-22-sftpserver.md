@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Set up an SFTP server using Docker containers"
-date: 2024-04-22 22:00:00 -0000
+date: 2024-04-22
 ---
 ## How to get an SFTP server running locally using docker
 
