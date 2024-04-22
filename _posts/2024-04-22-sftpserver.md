@@ -1,9 +1,9 @@
 ---
+layout: post
 title: "Set up an SFTP server using Docker containers"
-date: 2024-04-22
+date: 2024-04-22 22:00:00 -0000
 ---
-
-How to get an SFTP server running locally using docker
+## How to get an SFTP server running locally using docker
 
 SFTP is a network protocol that provides files access, file transfer, and file management over any reliable data stream. The protocol assumes that it is run over a secure channel, such as SSH, that the server has already authenticated the client, and that the identity of the client user is available to the protocol. 
 
